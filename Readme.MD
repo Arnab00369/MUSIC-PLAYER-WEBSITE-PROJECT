@@ -24,8 +24,8 @@ A **fully responsive and interactive Music Player Website** built using **HTML, 
 
 <p align="center">
   <img src="Assets/MUSIC PLAYER_HOME PAGE.png" alt="Demo" width="700px"/>
-  <img src="https://i.ibb.co/XpJ4tXb/music-player-demo.gif" alt="Demo" width="700px"/>
-  <img src="https://i.ibb.co/XpJ4tXb/music-player-demo.gif" alt="Demo" width="700px"/>
+  <img src="Assets/MUSIC PLAYER_HOME PAGE(2).png" alt="Demo" width="700px"/>
+  <img src="Assets/ARTIST PAGE.png" alt="Demo" width="700px"/>
 </p>
 
 ---
