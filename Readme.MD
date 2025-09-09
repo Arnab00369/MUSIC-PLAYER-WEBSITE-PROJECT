@@ -1,0 +1,97 @@
+# 🎵 Music Player Website
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/musical-notes.png" alt="Music Icon"/>
+</p>
+
+A **fully responsive and interactive Music Player Website** built using **HTML, CSS, and JavaScript**. The project allows users to play, pause, skip, and navigate through tracks with a sleek UI and smooth animations.
+
+---
+
+## ✨ Features
+
+- 🎶 **Play / Pause / Skip** functionality
+- 📂 **Playlist support** with multiple tracks
+- 📱 **Responsive design** (works on desktop & mobile)
+- 🎨 **Custom animations** for buttons & progress bar
+- 🔊 **Volume control** & progress tracking
+- ⏭️ **Next / Previous track navigation**
+- 🌙 **Modern UI with icons**
+
+---
+
+## 🖼️ Preview
+
+<p align="center">
+  <img src="https://i.ibb.co/XpJ4tXb/music-player-demo.gif" alt="Demo" width="700px"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚡ **Frontend:** HTML, CSS, JavaScript
+- 🎨 **Design:** CSS Flexbox, Animations, Icons (Font Awesome / Icons8)
+
+---
+
+## 🚀 Getting Started
+
+### 📥 Clone the repo
+```bash
+git clone https://github.com/your-username/music-player-website.git
+```
+
+### ▶️ Run the Project
+1. Navigate to the project folder
+   ```bash
+   cd music-player-website
+   ```
+2. Open `index.html` in your browser
+
+---
+
+## 📂 Project Structure
+
+```
+📁 music-player-website
+│── 📂 assets          # Music files & images
+│── 📂 css             # Stylesheets
+│── 📂 js              # JavaScript files
+│── index.html         # Main player page
+│── README.md          # Project documentation
+```
+
+---
+
+## 🎨 Design & Animations
+- 🔘 **Neon hover effects** on buttons
+- 📊 **Animated progress bar** for track duration
+- 💡 **Smooth transitions** when switching songs
+- 🎧 **Music-themed icons** for better UX
+
+---
+
+## 🤝 Contribution
+
+Contributions are welcome! 🎉
+
+1. 🍴 Fork the repo
+2. 🌱 Create a new branch (`feature-branch`)
+3. 💾 Commit your changes
+4. 📤 Push to your branch
+5. 🔁 Open a Pull Request
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. 📝
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/github.png" width="60px" alt="GitHub Logo"/>
+</p>
+
+<p align="center">
+  Made with ❤️ and 🎵 by <b>Arnab Jana</b>
+</p>
