@@ -4,7 +4,7 @@
   <img src="https://img.icons8.com/color/96/000000/musical-notes.png" alt="Music Icon"/>
 </p>
 
-A **fully responsive and interactive Music Player Website** built using **HTML, CSS, and JavaScript**. The project allows users to play, pause, skip, and navigate through tracks with a sleek UI and smooth animations.
+A **fully responsive and interactive Music Player Website** built using **HTML, and CSS**. The project allows users to play, pause, skip, and navigate through tracks with a sleek UI and smooth animations.
 
 ---
 
@@ -23,7 +23,9 @@ A **fully responsive and interactive Music Player Website** built using **HTML, 
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="https://i.ibb.co/XpJ4tXb/music-player-demo.gif" alt="Demo" width="700px"/>
+  <img src="Assets/MUSIC PLAYER_HOME PAGE.png" alt="Demo" width="700px"/>
+  <img src="Assets/MUSIC PLAYER_HOME PAGE(2).png" alt="Demo" width="700px"/>
+  <img src="Assets/ARTIST PAGE.png" alt="Demo" width="700px"/>
 </p>
 
 ---
@@ -39,7 +41,7 @@ A **fully responsive and interactive Music Player Website** built using **HTML, 
 
 ### 📥 Clone the repo
 ```bash
-git clone https://github.com/your-username/music-player-website.git
+git clone https://github.com/Arnab00369/MUSIC-PLAYER-WEBSITE-PROJECT.git
 ```
 
 ### ▶️ Run the Project
@@ -56,8 +58,7 @@ git clone https://github.com/your-username/music-player-website.git
 ```
 📁 music-player-website
 │── 📂 assets          # Music files & images
-│── 📂 css             # Stylesheets
-│── 📂 js              # JavaScript files
+│── style.css          # Stylesheets
 │── index.html         # Main player page
 │── README.md          # Project documentation
 ```
