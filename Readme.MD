@@ -21,6 +21,8 @@ A **fully responsive and interactive Music Player Website** built using **HTML, 
 ---
 ## Website Link : https://68c08ddf2443c7b025ba79b0--clever-brigadeiros-298ad5.netlify.app/
 
+Demo Video Link: https://www.linkedin.com/posts/arnabjana369_learningprogress-codingchallenge-codingninjas-activity-7096893080938659840-M3dd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2sJYMB4vtsXl0IfGauRDaOL0PdZSwEV_8
+
 ## 🖼️ Preview
 
 <p align="center">
