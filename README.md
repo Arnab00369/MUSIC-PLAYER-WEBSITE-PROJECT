@@ -1,4 +1,4 @@
-<h1 align="center"><img src="" alt="Demo" width="700px"/> Music Player Website</h1>
+<h1 align="center"><img src="Assets/Okay.gif" alt="Demo" width="50px"/> Music Player Website <img src="Assets/Okay.gif" alt="Demo" width="50px"/></h1>
 
 <p align="center">
   <img src="Assets/VIDEO TOUR (3).gif" alt="Demo" width="700px"/>
