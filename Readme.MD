@@ -1,4 +1,4 @@
-# 🎵 Music Player Website
+## 🎵 Music Player Website
 
 <p align="center">
   <img src="Assets/VIDEO TOUR (3).gif" alt="Demo" width="700px"/>
