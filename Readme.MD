@@ -1,7 +1,7 @@
 # 🎵 Music Player Website
 
 <p align="center">
-  <img src="Assets/VIDEO TOUR.gif" alt="Demo" width="700px"/>
+  <img src="Assets/VIDEO TOUR (3).gif" alt="Demo" width="700px"/>
 </p>
 
 A **fully responsive and interactive Music Player Website** built using **HTML, and CSS**. The project allows users to play, pause, skip, and navigate through tracks with a sleek UI and smooth animations.
