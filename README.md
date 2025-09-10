@@ -1,100 +1,111 @@
-## 🎵 Music Player Website
+<h1 align="center"><img src="" alt="Demo" width="700px"/> Music Player Website</h1>
 
 <p align="center">
   <img src="Assets/VIDEO TOUR (3).gif" alt="Demo" width="700px"/>
 </p>
 
-A **fully responsive and interactive Music Player Website** built using **HTML, and CSS**. The project allows users to play, pause, skip, and navigate through tracks with a sleek UI and smooth animations.
-
----
-
-## ✨ Features
-
-- 🎶 **Play / Pause / Skip** functionality
-- 📂 **Playlist support** with multiple tracks
-- 📱 **Responsive design** (works on desktop & mobile)
-- 🎨 **Custom animations** for buttons & progress bar
-- 🔊 **Volume control** & progress tracking
-- ⏭️ **Next / Previous track navigation**
-- 🌙 **Modern UI with icons**
-
----
-## Website Link : https://68c08ddf2443c7b025ba79b0--clever-brigadeiros-298ad5.netlify.app/
-
-Demo Video Link: https://www.linkedin.com/posts/arnabjana369_learningprogress-codingchallenge-codingninjas-activity-7096893080938659840-M3dd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2sJYMB4vtsXl0IfGauRDaOL0PdZSwEV_8
-
-## 🖼️ Preview
-
+<!-- Badges Row -->
 <p align="center">
-  <img src="Assets/MUSIC PLAYER_HOME PAGE.png" alt="Demo" width="700px"/>
-  <img src="Assets/MUSIC PLAYER_HOME PAGE(2).png" alt="Demo" width="700px"/>
-  <img src="Assets/ARTIST PAGE.png" alt="Demo" width="700px"/>
+  <img src="https://img.shields.io/github/stars/Arnab00369/MUSIC-PLAYER-WEBSITE-PROJECT?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/Arnab00369/MUSIC-PLAYER-WEBSITE-PROJECT?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/license/Arnab00369/MUSIC-PLAYER-WEBSITE-PROJECT?style=for-the-badge&logo=opensourceinitiative" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arnab00369.music-player&style=for-the-badge" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-
-- ⚡ **Frontend:** HTML, CSS, JavaScript
-- 🎨 **Design:** CSS Flexbox, Animations, Icons (Font Awesome / Icons8)
-
----
-
-## 🚀 Getting Started
-
-### 📥 Clone the repo
-```bash
-git clone https://github.com/Arnab00369/MUSIC-PLAYER-WEBSITE-PROJECT.git
-```
-
-### ▶️ Run the Project
-1. Navigate to the project folder
-   ```bash
-   cd music-player-website
-   ```
-2. Open `index.html` in your browser
+<h2>🚀 Live Demo</h2>
+<ul>
+  <li>🌐 <b>Website:</b> <a href="https://68c08ddf2443c7b025ba79b0--clever-brigadeiros-298ad5.netlify.app/">Music Player Website</a></li>
+  <li>🎥 <b>Video Demo:</b> <a href="https://www.linkedin.com/posts/arnabjana369_learningprogress-codingchallenge-codingninjas-activity-7096893080938659840-M3dd">Watch on LinkedIn</a></li>
+</ul>
 
 ---
 
-## 📂 Project Structure
+<h2>✨ Features</h2>
+<table>
+  <tr><td>🎶 Music Control</td><td>Play / Pause / Skip</td></tr>
+  <tr><td>📂 Playlist</td><td>Multiple track support</td></tr>
+  <tr><td>📱 Responsive</td><td>Desktop + Mobile friendly</td></tr>
+  <tr><td>🎨 UI Effects</td><td>Neon hover, smooth transitions</td></tr>
+  <tr><td>🔊 Volume Control</td><td>Adjustable sound</td></tr>
+  <tr><td>⏭️ Navigation</td><td>Next / Previous tracks</td></tr>
+</table>
 
-```
+---
+
+<h2>🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+<h2>🖼️ Preview</h2>
+<p align="center">
+  <img src="Assets/MUSIC PLAYER_HOME PAGE.png" width="700px"/>
+  <img src="Assets/MUSIC PLAYER_HOME PAGE(2).png" width="700px"/>
+  <img src="Assets/ARTIST PAGE.png" width="700px"/>
+</p>
+
+---
+
+<h2>📂 Project Structure</h2>
+<pre>
 📁 music-player-website
 │── 📂 assets          # Music files & images
 │── style.css          # Stylesheets
 │── index.html         # Main player page
 │── README.md          # Project documentation
-```
+</pre>
 
 ---
 
-## 🎨 Design & Animations
-- 🔘 **Neon hover effects** on buttons
-- 📊 **Animated progress bar** for track duration
-- 💡 **Smooth transitions** when switching songs
-- 🎧 **Music-themed icons** for better UX
+<h2>⚡ Getting Started</h2>
+<pre>
+# Clone this repository
+git clone https://github.com/Arnab00369/MUSIC-PLAYER-WEBSITE-PROJECT.git  
+
+# Go to project folder
+cd music-player-website  
+
+# Run the project
+Open index.html in your browser
+</pre>
 
 ---
 
-## 🤝 Contribution
-
-Contributions are welcome! 🎉
-
-1. 🍴 Fork the repo
-2. 🌱 Create a new branch (`feature-branch`)
-3. 💾 Commit your changes
-4. 📤 Push to your branch
-5. 🔁 Open a Pull Request
+<h2>🎨 Design Highlights</h2>
+<ul>
+  <li>🔘 Neon hover effects on buttons</li>
+  <li>📊 Animated progress bar</li>
+  <li>💡 Smooth transitions between songs</li>
+  <li>🎧 Music-themed icons for better UX</li>
+</ul>
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License**. 📝
+<summary><h2>🤝 Contribution Guidelines</h2></summary>
+<ol>
+  <li>🍴 Fork the repository</li>
+  <li>🌱 Create a new branch (<code>feature-branch</code>)</li>
+  <li>💾 Commit your changes</li>
+  <li>📤 Push to your branch</li>
+  <li>🔁 Open a Pull Request</li>
+</ol>
 
+
+---
+
+<h2>📜 License</h2>
+<p>This project is licensed under the <b>MIT License</b>.</p>
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/github.png" width="60px" alt="GitHub Logo"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
+
+---
 
 <p align="center">
   Made with ❤️ and 🎵 by <b>Arnab Jana</b>
